@@ -1,0 +1,9 @@
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.exe.config
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.exe
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.pdb
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.AssemblyReference.cache
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.Properties.Resources.resources
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.GenerateResource.cache
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.CoreCompileInputs.cache
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.exe
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.pdb

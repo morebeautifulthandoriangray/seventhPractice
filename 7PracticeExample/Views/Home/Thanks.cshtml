@@ -1,0 +1,32 @@
+﻿@model _7PracticeExample.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+<div class="text-center">
+    <h1>Спасибо, @Model.Name!</h1>
+    <div class="lead">
+        @if (Model.WillAttend == true)
+        {
+            @: Здорово что вы придете, напитки уже в холодильнике ;)
+        }
+        else
+        {
+            @:Жаль что вы не придете, но спасибо что дали об этом знать.
+        }
+    </div>
+        
+
+</div>
+
+</body>
+</html>
